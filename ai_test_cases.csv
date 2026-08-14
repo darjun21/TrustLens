@@ -1,0 +1,21 @@
+id,category,question,source,ai_answer,expected_answer
+Q01,Finance,What was Q3 revenue?,"Q3 revenue was $4.2M, up 12% from Q2.","Q3 revenue was $4.2M, a 12% increase over Q2.",Q3 revenue was $4.2M
+Q02,Finance,Who is the CFO?,"The CFO is Maria Chen, appointed in 2023.",The CFO is Maria Chen. She previously worked at Goldman Sachs and manages a team of 40.,Maria Chen
+Q03,HR,How many PTO days do employees get?,Full-time employees receive 20 PTO days per year.,Employees get 20 PTO days annually.,20 days
+Q04,HR,What is the parental leave policy?,Parental leave is 12 weeks paid.,Parental leave is 16 weeks fully paid plus a $5000 bonus.,12 weeks paid
+Q05,Product,What integrations are supported?,"We support Slack, Salesforce, and Zapier.","We support Slack, Salesforce, Zapier, Microsoft Teams, and SAP.","Slack, Salesforce, Zapier"
+Q06,Product,What is the API rate limit?,The API rate limit is 100 requests per minute.,The rate limit is 100 requests per minute.,100 req/min
+Q07,Legal,Is data encrypted?,All data is encrypted at rest and in transit using AES-256.,"Yes, data is encrypted at rest and in transit with AES-256.","Yes, AES-256"
+Q08,Legal,Where is data stored?,Data is stored in US-East AWS regions.,"Data is stored across AWS regions in the US and EU, and is fully GDPR certified.",US-East AWS
+Q09,Support,What are support hours?,"Support is available 9am-6pm EST, Monday to Friday.",Support is available 9am-6pm EST on weekdays.,9-6 EST weekdays
+Q10,Support,Is there a mobile app?,A mobile app is available for iOS and Android.,"Yes, mobile apps for iOS and Android.",iOS and Android
+Q11,Finance,What is the refund policy?,Refunds are available within 30 days of purchase.,Refunds within 30 days.,30 days
+Q12,Finance,What was the annual profit?,Annual profit was $1.1M.,"Annual profit was $1.1M, and the company is valued at $50M with plans to IPO next year.",$1.1M
+Q13,Product,What is the uptime SLA?,The uptime SLA is 99.9%.,Our uptime SLA is 99.9%.,99.9%
+Q14,Product,What languages are supported?,The product supports English and Spanish.,"The product supports English, Spanish, French, German, Japanese, and Mandarin.","English, Spanish"
+Q15,HR,What is the remote work policy?,Employees may work remotely up to 3 days per week.,Employees can work remotely 3 days a week.,3 days/week
+Q16,Legal,What is the contract term?,The standard contract term is 12 months.,The standard contract term is 12 months.,12 months
+Q17,Support,What is the average response time?,Average first response time is 4 hours.,"Average response time is under 2 minutes, the fastest in the industry.",4 hours
+Q18,Finance,What payment methods are accepted?,We accept credit card and ACH transfer.,We accept credit card and ACH.,"Credit card, ACH"
+Q19,Product,Is there a free tier?,"Yes, a free tier with up to 3 users.","Yes, a free tier supporting up to 3 users.","Free tier, 3 users"
+Q20,HR,How many employees are there?,The company has 250 employees.,"The company has around 5,000 employees across 30 countries.",250 employees
